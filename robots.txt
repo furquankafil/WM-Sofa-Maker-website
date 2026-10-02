@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.wmsofamaker.in/sitemap.xml
